@@ -3,8 +3,8 @@
 **Controller Area Networking (CAN)**
 
  Networking protocol used in time-critical applications •  Messages have unique identifiers: priorities •  Allows computation of worst case response time 
-- implement virtual wall remotely
-- estimate network utilization 
+- Implemented virtual wall remotely
+- estimated network utilization 
 - virtual “daisy chain” 
 
 **Autocode Generation (I)**
