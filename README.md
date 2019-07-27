@@ -25,7 +25,7 @@ Use interrupt timer to generate a time step for numerical differentiation and in
 
 **Virtual Spring-Mass System**
 
-Virtual spring-mass system: reaction force F = k(w-z) •  Measure z, must obtain w by numerical integration •  Use interrupt timer to generate a time step
+Virtual spring-mass system implemented over Haptic wheel: reaction force F = k(w-z) •  Measure z, must obtain w by numerical integration •  Use interrupt timer to generate a time step
 
 **Quadrature Decoding**
 
@@ -45,4 +45,5 @@ Virtual spring-mass system: reaction force F = k(w-z) •  Measure z, must obt
 
 **Pulse Width Modulation •**  
 Drive DC motor with a PWM signal –  Switching frequency 20 kHz –  Duty cycle 40% –  FlexPWM peripheral on NXP SK32K144 
+
 
