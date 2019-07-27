@@ -2,10 +2,10 @@
 
 **Controller Area Networking (CAN)**
 
- Networking protocol used in time-critical applications •  Messages have unique identifiers: priorities •  Allows computation of worst case response time 
+ Implemented over 7 lab stations over CAN network of NXP S32K144 • Networking protocol used in time-critical applications •  Messages have unique identifiers: priorities •  Allows computation of worst case response time 
 - Implemented virtual wall remotely
-- estimated network utilization 
-- virtual “daisy chain” 
+- Estimated network utilization 
+- Virtual “daisy chain” 
 
 **Autocode Generation (I)**
 
